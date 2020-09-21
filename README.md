@@ -1,14 +1,13 @@
-## Welcome to my GitHub Page
+## Welcome to My Github Page
 
-You can use the [editor on GitHub](https://github.com/IvanGent/IvanGent.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Don't have much to write on here yet but as my time in App Academy progresses I will add more things to keep this page current.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Currently Going On
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As of right now, I am a student at App Academy studying to become a full stack developer. If all goes well I will graduate on time, find a job quickly and pursue other dreams and aspirations that I have.
 
 ```markdown
+Keeping this for future reference when I want to use it.
 Syntax highlighted code block
 
 # Header 1
@@ -26,11 +25,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvanGent/IvanGent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The theme I am using for this page incase you were wondering.
 
 ### Support or Contact
 
