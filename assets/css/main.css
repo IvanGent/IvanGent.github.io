@@ -384,11 +384,12 @@ input, select, textarea {
 		.row.gtr-0 {
 			margin-top: 0px;
 			margin-left: 0px;
+			/* background-color: red; */
+			/* z-index: 999; */
 		}
 
 			.row.gtr-0 > * {
 				padding: 0px 0 0 0px;
-				/* background-color: red; */
 			}
 
 			.col-3 img {
@@ -2675,11 +2676,11 @@ input, select, textarea {
 
 	#first {
 		margin-top: 0;
-		width: 90%;
+		width: 70%;
 	}
 
 	#second {
-		width: 90%;
+		width: 70%;
 	}
 
 	#second a {
