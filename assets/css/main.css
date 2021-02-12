@@ -2715,3 +2715,9 @@ input, select, textarea {
 		display: flex;
 		flex-direction: column;
 	}
+
+	.picResume img {
+		width: 300px;
+		height: 380px;
+		border-radius: 50%;
+	}
