@@ -2682,6 +2682,8 @@ input, select, textarea {
 
 	#second {
 		width: 70%;
+		display: flex;
+		height: ;
 	}
 
 	#second a {
