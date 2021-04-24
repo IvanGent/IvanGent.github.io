@@ -1872,7 +1872,7 @@ input, select, textarea {
 
 		.box.style1 {
 			background: #fff;
-			padding: 3em;
+			/* padding: 3em; */
 		}
 
 			.box.style1 .image {
@@ -1905,8 +1905,9 @@ input, select, textarea {
 				}
 
 			.box.style1.right .inner {
-				margin-left: 50%;
-				padding-left: 3em;
+				/* margin-left: 50%; */
+				/* padding-left: 3em; */
+				padding: 0 3em;
 			}
 
 			.box.style1.left .image {
@@ -2676,6 +2677,7 @@ input, select, textarea {
 
 	#first {
 		width: 70%;
+		display: flex;
 	}
 
 	#second {
@@ -2711,4 +2713,10 @@ input, select, textarea {
 		width: 320px;
 		height: 300px;
 		border-radius: 50%;
+	}
+
+	.addImg {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
 	}
